@@ -48,7 +48,8 @@ Inventory status tracking
 Product performance analysis
 Sales statistics visualization
 
-(Add screenshots here)
+<img width="1378" height="764" alt="image" src="https://github.com/user-attachments/assets/0e2a1f2b-ac3a-4cb8-a891-212a10551123" />
+
 
 ## Database Modules
 Product Management
